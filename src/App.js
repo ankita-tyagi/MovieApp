@@ -15,7 +15,7 @@ const App=() => {
   
 
   useEffect(()=>{
-    searchMovies('Gravity');
+    searchMovies('High');
    
   },[]);
 
